@@ -8,3 +8,5 @@ Dependências:
 Instalação do pacote selenium.
 
 Instalação do pacote behave.
+
+ChromeDriver, última versão, só baixar, descompactar e apontar o caminho do executável no environment.py em webdriver.Chrome().
